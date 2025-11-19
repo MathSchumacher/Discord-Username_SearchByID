@@ -1,0 +1,8 @@
+# Ignora a pasta inteira de segredos do Streamlit
+.streamlit/
+
+# Ignora dependências de pacotes Python
+__pycache__/
+*.pyc
+.venv/
+venv/
